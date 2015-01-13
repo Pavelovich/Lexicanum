@@ -1,0 +1,192 @@
+div#content h1, div#content #firstHeading {
+    border-bottom: solid 1px black;
+}
+
+div#content h2 {
+    border-bottom: solid 1px black;
+}
+
+div#mw-panel div.portal div.body ul li a {
+    color: #0b0080;
+}
+
+div.vectorMenu h3 a {
+    border-right: solid 1px #000000;
+    background-image: none;
+}
+
+#mw-panel.collapsible-nav .portal {
+    border-top: solid 1px #000000;
+    background-image: none;
+}
+
+#mw-panel.collapsible-nav .portal h3 a {
+    color: #000000;
+}
+
+div#mw-dismissable-notice-close {
+    display: none;
+}
+.mw-dismissable-notice-close { display : none }
+
+div.vectorTabs { background-image: none; }
+
+div#content {
+    background: #777777;
+    color: black;
+    border: solid 1px black;
+}
+body {
+    font-family: sans-serif;
+    font-size: 12pt;
+    background: #555555;
+}
+
+h1#firstHeading > span, h2 > span, h3 > span, h4 > span {
+    font-family: sans-serif;
+    color: black;
+    background: #777777;
+}
+
+div#mw-head {
+    background: #555555;
+}
+
+li#ca-addsection, li#ca-nstab-forum, li#ca-nstab-project, li#ca-viewsource, li#ca-nstab-template, li#ca-nstab-category, li#ca-nstab-mediawiki, li#ca-nstab-special, li#ca-nstab-user, li#ca-nstab-main, li#ca-talk, li#ca-view, li#ca-edit, li#ca-history, li#ca-watch, li#ca-unwatch {
+    background: #777777;
+    border-color: black;
+}
+
+
+li#ca-addsection a, li#ca-nstab-forum a, li#ca-nstab-project a, li#ca-viewsource a, li#ca-nstab-template a, li#ca-nstab-category a, li#ca-nstab-mediawiki a, li#ca-nstab-special a, li#ca-nstab-user a, li#ca-nstab-main a, li#ca-talk a, li#ca-view a, li#ca-edit a, li#ca-history a, li#ca-watch a, li#ca-unwatch a {
+    color: black;
+    border-left: solid 1px black;
+    border-right: solid 1px black;
+}
+
+li#pt-userpage {
+    background: none;
+}
+
+/*
+div#p-logo a {
+background: url("http://static.orain.org/meta.orain.org/images/3/3a/RedSec.png");
+}
+*/
+
+body a, div#content a, div.body a { color : #08088A; }
+div#content a.new { color : #610B0B; }
+
+textarea, div.editOptions, div#wikiEditor-ui-toolbar {
+    background: #777777;
+    color: black;
+    border: solid 1px black;
+}
+
+textarea {
+    background: black;
+    color: #A9F5F2;
+    border: solid 1px black;
+    font-family: monospace;
+    font-size: 12pt;
+}
+
+div#catlinks {
+    background: #555555;
+    border-color: black;
+}
+
+input {
+    background: #555555;
+    color: black;
+    border-color: black;
+    box-shadow: 1px 1px #555555;
+    padding: none;
+}
+
+div#simpleSearch {
+    background: gray;
+    color: #A9F5F2;
+}
+
+div#toc {
+    background: #777777;
+    border-color: black;
+}
+
+div#preferences, div.menu, li.selected {
+    background: #777777;
+}
+
+pre {
+    background: #888888;
+    color: black;
+    border-color: black;
+}
+
+code {
+    background: #888888;
+    border: solid 1px black;
+    color: black;
+}
+
+/* Forum style */
+
+TD.forum_title {
+    border-top: solid 1px blue;
+    border-bottom: solid 1px blue;
+    border-left: solid 1px blue;
+    background: black;
+    padding: 5px;
+}
+
+TD.forum_title a {
+    color: green;
+}
+
+TD.forum_edited {
+    border-top: solid 1px blue;
+    border-bottom: solid 1px blue;
+    border-right: solid 1px blue;
+    background: black;
+}
+
+TD.forum_edited a {
+    color: red;
+}
+
+.menu {
+    background: #777777;
+    color: black;
+    border: solid 1px black;
+}
+
+/* Forum style */
+
+TD.forum_title {
+    border-top: solid 1px blue;
+    border-bottom: solid 1px blue;
+    border-left: solid 1px blue;
+    background: black;
+    padding: 5px;
+}
+
+TD.forum_title a {
+    color: green;
+}
+
+TD.forum_edited {
+    border-top: solid 1px blue;
+    border-bottom: solid 1px blue;
+    border-right: solid 1px blue;
+    background: black;
+}
+
+TD.forum_edited a {
+    color: red;
+}
+
+.menu {
+    background: black;
+    color: #A9F5F2;
+    border: solid 1px #A9F5F2;
